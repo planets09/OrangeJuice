@@ -6,14 +6,6 @@
 	font-family: "Muli", sans-serif;
 
 }
-/*
-html{
-	min-height: 100%;
-}
-body{
-	height: 100%!important;
-}*/
-
 
 nav #top-navigation {
 	background: #FE7E00;
@@ -44,7 +36,7 @@ nav #top-navigation .orange-white {
 nav #top-navigation .juice-white {
 	color: #fff;
 	text-align: left;
-	font-size: 35px;
+	font-size: 37px;
 	text-decoration: none;
 	float: left;
 }
@@ -88,7 +80,8 @@ nav #top-navigation .activate li a {
 
 input {
 	background-color: yellow;
-	height: 25px;
+	height: 30px;
+	width: auto;
 }
 
 
@@ -137,7 +130,7 @@ input {
 
  #main-wrapper button {
  	background-color: #7ACCC8;
- 	border-radius: 10px;
+ 	border-radius: 12px;
  	border: none;
  	display: inline-block;
  	width: auto;
